@@ -1,0 +1,27 @@
+Game Design Document
+Fill up the following document 
+
+________________________________________
+
+
+1.	Write the title of your project.
+
+Car’s Football
+________________________________________
+
+
+2.	What is the goal of the game? 
+
+To score more goals than the opponent player like a regular footall match
+________________________________________
+
+
+3.	Write a brief story of your game.
+
+There was a boy who really loved the movie cars. He alo loved football and played it everyday.he also saw all matches of football on the telivision. Suddenly the spread of a virus caused a lockdown in the country. He could not play football then. So, the boy decided that he could create a game with a mixtur of his favorite movie and the football matches and create a game.
+________________________________________
+NPCs – the opponent        PCs- you 
+________________________________________
+Idea- The game will be cars on the ground wich can move. The cars can move up and down. The football can move in any direction though.
+________________________________________
+Device – Pc or desktop.      Tools – VS code      
